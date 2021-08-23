@@ -1,0 +1,48 @@
+Usando la relacion obtenida con Godel
+t-normas:Interseccion drastica
+0.50
+0.70
+0.70
+0.90
+0.00
+0.00
+Usando la relacion obtenida con Godel
+t-normas:Diferencia limitada
+0.50
+0.70
+0.70
+0.90
+0.00
+0.00
+Usando la relacion obtenida con Lukasiewicz
+t-normas:Interseccion drastica
+0.50
+0.70
+0.70
+0.90
+0.00
+0.00
+Usando la relacion obtenida con Lukasiewicz
+t-normas:Diferencia limitada
+0.50
+0.70
+0.70
+0.90
+0.20
+0.20
+Usando la relacion obtenida con Goguen
+t-normas:Interseccion drastica
+0.50
+0.70
+0.70
+0.90
+0.00
+0.00
+Usando la relacion obtenida con Goguen
+t-normas:Diferencia limitada
+0.50
+0.70
+0.70
+0.90
+0.00
+0.00
